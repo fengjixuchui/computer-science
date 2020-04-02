@@ -22,7 +22,7 @@
   - [Core CS](#core-cs)
   - [Advanced CS](#advanced-cs)
   - [Final project](#final-project)
-  - [Pro CS](#pro-cs)
+  - [Congratulations](#congratulations)
 - [Code of conduct](#code-of-conduct)
 - [Community](#community)
   - [How to show your progress](#how-to-show-your-progress)
@@ -80,9 +80,16 @@ just remember that you can't purchase success!
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Do NOT disrespect the code of conduct* that you signed in the beginning of each course!
 
-**How to contribute**. Please see [CONTRIBUTING](CONTRIBUTING.md).
+**[How to contribute](CONTRIBUTING.md)**
 
-**Getting help**. Please check our [Frequently Asked Questions](FAQ.md), and if you cannot find the answer, file an issue or talk to our [friendly community](#community)! In particular, join in the conversation on our [Gitter](https://gitter.im/open-source-society/computer-science) (which is an online chat service, similar to Discord or IRC) where you can chat with other students and get help. [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
+**[Getting help](HELP.md)** (Details about our FAQ and chatroom)
+
+# Community
+
+- We have a chat room! This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the chat in Gitter](https://gitter.im/open-source-society/computer-science) [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
+- You can also interact through [GitHub issues](https://github.com/ossu/computer-science/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
+- Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
+- Note: There is an unmaintained and deprecated firebase app that you might find when searching OSSU. You can safely ignore it. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 
 # Curriculum
 
@@ -111,8 +118,7 @@ just remember that you can't purchase success!
 
 ## Prerequisites
 
-- [Core CS](#core-cs) assumes the student has already taken high school math and physics, including algebra, geometry, and pre-calculus.
-Some high school graduates will have already taken AP Calculus, but this is usually only about 3/4 of a college calculus class, so the calculus courses in the curriculum are still recommended.
+- [Core CS](#core-cs) assumes the student has already taken [high school math](https://www.khanacademy.org/math/high-school-math), including algebra, geometry, and pre-calculus.
 - [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
@@ -457,25 +463,11 @@ You can use **any** language that you want to complete the final project.
 
 The important thing is to **internalize** the core concepts and to be able to use them with whatever tool (programming language) that you wish.
 
-## Pro CS
+## Congratulations
 
-After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Computer Science, or quite close to one.
-You can stop in the Advanced CS section, but the next step to completing your studies is to develop skills and knowledge in a specific domain.
-Many of these courses are graduate-level.
+After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Computer Science. Congratulations!
 
-Choose one or more of the following **specializations**:
-- [Mastering Software Development in R Specialization](https://www.coursera.org/specializations/r) by Johns Hopkins University
-- [Artificial Intelligence Engineer Nanodegree](https://www.udacity.com/ai) by IBM, Amazon, and Didi
-- [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) by Kaggle
-- [Cybersecurity MicroMasters](https://www.edx.org/micromasters/ritx-cybersecurity) by the Rochester Institute of Technology
-- [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) by Google
-
-These aren't the only specializations you can choose. Check the following websites for **more options**:
-- edX: [xSeries](https://www.edx.org/xseries)
-- Coursera: [Specializations](https://www.coursera.org/specializations)
-- Udacity: [Nanodegree](https://www.udacity.com/nanodegree)
-
-### Where to go next?
+What is next for you? The possibilities are boundless and overlapping:
 
 - Look for a job as a developer!
 - Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
@@ -489,14 +481,6 @@ These aren't the only specializations you can choose. Check the following websit
 
 # Code of conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
-
-# Community
-
-- We have a chat room! This should be your first stop to talk with other OSSU students. [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
-- You can also interact through [GitHub issues](https://github.com/ossu/computer-science/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation.
-- Subscribe to our [newsletter](https://tinyletter.com/ossu).
-- Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
-- There is an unmaintained and deprecated firebase app that you might find when searching OSSU. You can safely ignore it. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 
 ## How to show your progress
 
