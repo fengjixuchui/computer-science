@@ -16,17 +16,10 @@
 # Contents
 
 - [Summary](#summary)
-- [Curriculum](#curriculum)
-  - [Prerequisites](#prerequisites)
-  - [Intro CS](#intro-cs)
-  - [Core CS](#core-cs)
-  - [Advanced CS](#advanced-cs)
-  - [Final project](#final-project)
-  - [Congratulations](#congratulations)
-- [Code of conduct](#code-of-conduct)
 - [Community](#community)
-  - [How to show your progress](#how-to-show-your-progress)
-  - [Team](#team)
+- [Curriculum](#curriculum)
+- [Code of conduct](#code-of-conduct)
+- [Team](#team)
 - [References](#references)
 
 # Summary
@@ -105,9 +98,9 @@ just remember that you can't purchase success!
   - [Core systems](#core-systems)
   - [Core theory](#core-theory)
   - [Core applications](#core-applications)
+  - [Core security](#core-security)
 - [Advanced CS](#advanced-cs)
   - [Advanced programming](#advanced-programming)
-  - [Advanced math](#advanced-math)
   - [Advanced systems](#advanced-systems)
   - [Advanced theory](#advanced-theory)
   - [Advanced applications](#advanced-applications)
@@ -176,6 +169,8 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `Lisp-family languages (via Racket)`
 `Ruby`
 `and more`
+
+The How to Code courses are based on the textbook [How to Design Programs](https://htdp.org/2003-09-26/). The First Edition is available for free online and includes problem sets and solutions. Students are encouraged to do these assignments.
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
@@ -279,6 +274,29 @@ Courses | Duration | Effort | Prerequisites
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 
+### Core Security
+**Topics covered**
+`Confidentiality, Integrity, Availability`
+`Secure Design`
+`Defensive Programming`
+`Threats and Attacks`
+`Network Security`
+`Cryptography`
+`and more`
+
+Note: **_These courses are provisionally recommended_**. There is an open [Request For Comment](https://github.com/ossu/computer-science/issues/639) on security course selection. Contributors are encouraged to compare the various courses in the RFC and offer feedback.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | 5 weeks | 3 hours/week | -
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | -
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | -
+
+Choose **one** of the following:
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | -
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | -
 
 ### Core applications
 
@@ -330,7 +348,7 @@ If not, or if a student chooses not to take the Capstone, then a separate Final 
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) | 12 weeks | - | C, algorithms
+[Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) ([HW](https://colab.research.google.com/github/depctg/udacity-cs344-colab))| 12 weeks | - | C, algorithms
 [Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx))| 9 weeks | 6-8 hours/week | none
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | Python, programming experience
@@ -505,9 +523,9 @@ You should put the *Course's cards* below its respective *Section's card*.
 The intention of this board is to provide our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc.
 You can change the status of your board to be *public* or *private*.
 
-## Team
+# Team
 
-* **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU and co-maintainer of all its curricula
+* **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
 * **[hanjiexi](https://github.com/hanjiexi)**: lead technical maintainer
 * **[waciumawanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
